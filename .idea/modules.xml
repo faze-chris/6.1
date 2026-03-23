@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 Book App/1 Book App.iml" filepath="$PROJECT_DIR$/1 Book App/1 Book App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 MVC Book App/2 MVC Book App.iml" filepath="$PROJECT_DIR$/2 MVC Book App/2 MVC Book App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Observer Book App/3 Observer Book App.iml" filepath="$PROJECT_DIR$/3 Observer Book App/3 Observer Book App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/6.1.iml" filepath="$PROJECT_DIR$/.idea/6.1.iml" />
+    </modules>
+  </component>
+</project>
